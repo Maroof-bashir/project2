@@ -1,5 +1,5 @@
 // adding new feature 
-let a ="maroof bashir ";
+let c = " conflict"
 console.log(a);
 let b = " student" ;
 console.log(a+b);
